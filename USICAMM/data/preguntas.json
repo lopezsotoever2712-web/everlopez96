@@ -1,0 +1,28 @@
+{
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Cuál es la capital de México?",
+      "opciones": ["Guadalajara", "Mexico City", "Puebla", "Veracruz", "Oaxaca"],
+      "respuesta_correcta": "Mexico City",
+      "tema": "Geografía",
+      "dificultad": "fácil"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿En qué año ocurrió la Independencia de México?",
+      "opciones": ["1800", "1808", "1810", "1821", "1825"],
+      "respuesta_correcta": "1810",
+      "tema": "Historia",
+      "dificultad": "medio"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi", "Danubio"],
+      "respuesta_correcta": "Nilo",
+      "tema": "Geografía",
+      "dificultad": "medio"
+    }
+  ]
+}
